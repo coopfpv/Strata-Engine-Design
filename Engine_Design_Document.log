@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.22)  23 SEP 2024 00:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.22)  25 SEP 2024 00:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -136,23 +136,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `Engine_Design_Document.toc'.
 
  [2]
-<Colibri.jpg, id=11, 462.528pt x 431.211pt>
-File: Colibri.jpg Graphic file (type jpg)
-<use Colibri.jpg>
-Package pdftex.def Info: Colibri.jpg  used on input line 28.
+<Images/Colibri.jpg, id=11, 462.528pt x 431.211pt>
+File: Images/Colibri.jpg Graphic file (type jpg)
+<use Images/Colibri.jpg>
+Package pdftex.def Info: Images/Colibri.jpg  used on input line 28.
 (pdftex.def)             Requested size: 199.16928pt x 185.68687pt.
-<Kluft-photo-CSXT-2004-amateur-space-launch.jpg, id=12, 331.2375pt x 496.85625p
-t>
-File: Kluft-photo-CSXT-2004-amateur-space-launch.jpg Graphic file (type jpg)
-<use Kluft-photo-CSXT-2004-amateur-space-launch.jpg>
-Package pdftex.def Info: Kluft-photo-CSXT-2004-amateur-space-launch.jpg  used o
-n input line 34.
+<Images/Kluft-photo-CSXT-2004-amateur-space-launch.jpg, id=12, 331.2375pt x 496
+.85625pt>
+File: Images/Kluft-photo-CSXT-2004-amateur-space-launch.jpg Graphic file (type 
+jpg)
+<use Images/Kluft-photo-CSXT-2004-amateur-space-launch.jpg>
+Package pdftex.def Info: Images/Kluft-photo-CSXT-2004-amateur-space-launch.jpg 
+ used on input line 34.
 (pdftex.def)             Requested size: 142.26378pt x 213.39383pt.
- [3 <./Colibri.jpg>] [4 <./Kluft-photo-CSXT-2004-amateur-space-launch.jpg>] [5]
-<PumpVPressure.jpg, id=22, 829.9005pt x 477.58424pt>
-File: PumpVPressure.jpg Graphic file (type jpg)
-<use PumpVPressure.jpg>
-Package pdftex.def Info: PumpVPressure.jpg  used on input line 66.
+ [3 <./Images/Colibri.jpg>] [4 <./Images/Kluft-photo-CSXT-2004-amateur-space-la
+unch.jpg>] [5]
+<Diagrams/PumpVPressure.jpg, id=22, 829.9005pt x 477.58424pt>
+File: Diagrams/PumpVPressure.jpg Graphic file (type jpg)
+<use Diagrams/PumpVPressure.jpg>
+Package pdftex.def Info: Diagrams/PumpVPressure.jpg  used on input line 66.
 (pdftex.def)             Requested size: 426.79134pt x 245.61247pt.
 
 Overfull \hbox (36.79134pt too wide) in paragraph at lines 66--67
@@ -160,103 +162,88 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 66--67
  []
 
 [6]
-<Pc_V_Isp.png, id=27, 462.528pt x 346.896pt>
-File: Pc_V_Isp.png Graphic file (type png)
-<use Pc_V_Isp.png>
-Package pdftex.def Info: Pc_V_Isp.png  used on input line 74.
+<Plots and Graphs/Pc_V_Isp.png, id=27, 462.528pt x 346.896pt>
+File: Plots and Graphs/Pc_V_Isp.png Graphic file (type png)
+<use Plots and Graphs/Pc_V_Isp.png>
+Package pdftex.def Info: Plots and Graphs/Pc_V_Isp.png  used on input line 74.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 
 
 LaTeX Warning: Text page 7 contains only floats.
 
-[7 <./PumpVPressure.jpg> <./Pc_V_Isp.png>]
-<VehicleMass_V_Pc.png, id=34, 462.528pt x 346.896pt>
-File: VehicleMass_V_Pc.png Graphic file (type png)
-<use VehicleMass_V_Pc.png>
-Package pdftex.def Info: VehicleMass_V_Pc.png  used on input line 82.
-(pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
+[7 <./Diagrams/PumpVPressure.jpg> <./Plots and Graphs/Pc_V_Isp.png>]
+<Plots and Graphs/VehicleMass_V_Pc.png, id=34, 502.2765pt x 365.6862pt>
+File: Plots and Graphs/VehicleMass_V_Pc.png Graphic file (type png)
+<use Plots and Graphs/VehicleMass_V_Pc.png>
+Package pdftex.def Info: Plots and Graphs/VehicleMass_V_Pc.png  used on input l
+ine 82.
+(pdftex.def)             Requested size: 227.62204pt x 165.72346pt.
 
 Underfull \hbox (badness 2401) in paragraph at lines 83--83
 []\OT1/cmr/m/n/12 Figure 5: Sim-pli-fied Com-par-i-son of Ve-hi-cle Mass for Pr
 essure-fed,
  []
 
-<deltaV_Pressure_V_Pump.png, id=35, 462.528pt x 346.896pt>
-File: deltaV_Pressure_V_Pump.png Graphic file (type png)
-<use deltaV_Pressure_V_Pump.png>
-Package pdftex.def Info: deltaV_Pressure_V_Pump.png  used on input line 88.
+<Plots and Graphs/deltaV_Pressure_V_Pump.png, id=35, 462.528pt x 346.896pt>
+File: Plots and Graphs/deltaV_Pressure_V_Pump.png Graphic file (type png)
+<use Plots and Graphs/deltaV_Pressure_V_Pump.png>
+Package pdftex.def Info: Plots and Graphs/deltaV_Pressure_V_Pump.png  used on i
+nput line 88.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
-[8 <./VehicleMass_V_Pc.png>] [9 <./deltaV_Pressure_V_Pump.png>]
+[8 <./Plots and Graphs/VehicleMass_V_Pc.png>] [9 <./Plots and Graphs/deltaV_Pre
+ssure_V_Pump.png>] [10]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 96.
+               Default added (so using `tbp') on input line 104.
 
-<VehicleMass_V_Pc_Pump_Only.png, id=44, 462.528pt x 346.896pt>
-File: VehicleMass_V_Pc_Pump_Only.png Graphic file (type png)
-<use VehicleMass_V_Pc_Pump_Only.png>
-Package pdftex.def Info: VehicleMass_V_Pc_Pump_Only.png  used on input line 98.
-
-(pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 102.
-
-<deltaV_V_Pc_Pump_Only.png, id=45, 462.528pt x 346.896pt>
-File: deltaV_V_Pc_Pump_Only.png Graphic file (type png)
-<use deltaV_V_Pc_Pump_Only.png>
-Package pdftex.def Info: deltaV_V_Pc_Pump_Only.png  used on input line 104.
-(pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
-[10 <./VehicleMass_V_Pc_Pump_Only.png>] [11 <./deltaV_V_Pc_Pump_Only.png>]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 114.
-
-<Rutherford-Ignition3.jpg, id=54, 579.66562pt x 508.90125pt>
-File: Rutherford-Ignition3.jpg Graphic file (type jpg)
-<use Rutherford-Ignition3.jpg>
-Package pdftex.def Info: Rutherford-Ignition3.jpg  used on input line 116.
+<Images/Rutherford-Ignition3.jpg, id=47, 579.66562pt x 508.90125pt>
+File: Images/Rutherford-Ignition3.jpg Graphic file (type jpg)
+<use Images/Rutherford-Ignition3.jpg>
+Package pdftex.def Info: Images/Rutherford-Ignition3.jpg  used on input line 10
+6.
 (pdftex.def)             Requested size: 227.62204pt x 199.82959pt.
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 120.
+               Default added (so using `tbp') on input line 110.
 
-<AstraLaunch.jpg, id=55, 2055.68pt x 1370.11874pt>
-File: AstraLaunch.jpg Graphic file (type jpg)
-<use AstraLaunch.jpg>
-Package pdftex.def Info: AstraLaunch.jpg  used on input line 122.
+<Images/AstraLaunch.jpg, id=48, 2055.68pt x 1370.11874pt>
+File: Images/AstraLaunch.jpg Graphic file (type jpg)
+<use Images/AstraLaunch.jpg>
+Package pdftex.def Info: Images/AstraLaunch.jpg  used on input line 112.
 (pdftex.def)             Requested size: 284.52756pt x 189.62015pt.
-<Pump_LOX_reddit.jpeg, id=56, 1708.3825pt x 1280.785pt>
-File: Pump_LOX_reddit.jpeg Graphic file (type jpg)
-<use Pump_LOX_reddit.jpeg>
-Package pdftex.def Info: Pump_LOX_reddit.jpeg  used on input line 128.
+<Images/Pump_LOX_reddit.jpeg, id=49, 1708.3825pt x 1280.785pt>
+File: Images/Pump_LOX_reddit.jpeg Graphic file (type jpg)
+<use Images/Pump_LOX_reddit.jpeg>
+Package pdftex.def Info: Images/Pump_LOX_reddit.jpeg  used on input line 118.
 (pdftex.def)             Requested size: 284.52756pt x 213.29427pt.
-<ElectricPumpFedReddit.jpg, id=57, 2307.822pt x 603.4545pt>
-File: ElectricPumpFedReddit.jpg Graphic file (type jpg)
-<use ElectricPumpFedReddit.jpg>
-Package pdftex.def Info: ElectricPumpFedReddit.jpg  used on input line 129.
+<Images/ElectricPumpFedReddit.jpg, id=50, 2307.822pt x 603.4545pt>
+File: Images/ElectricPumpFedReddit.jpg Graphic file (type jpg)
+<use Images/ElectricPumpFedReddit.jpg>
+Package pdftex.def Info: Images/ElectricPumpFedReddit.jpg  used on input line 1
+19.
 (pdftex.def)             Requested size: 284.52756pt x 74.39111pt.
-[12] [13 <./Rutherford-Ignition3.jpg> <./AstraLaunch.jpg>] [14 <./Pump_LOX_redd
-it.jpeg> <./ElectricPumpFedReddit.jpg>]
+[11] [12 <./Images/Rutherford-Ignition3.jpg> <./Images/AstraLaunch.jpg>]
+[13 <./Images/Pump_LOX_reddit.jpeg> <./Images/ElectricPumpFedReddit.jpg>]
 Overfull \vbox (3.2667pt too high) has occurred while \output is active []
 
 
-[15] [16]
-Overfull \hbox (1.78899pt too wide) in paragraph at lines 209--210
+[14] [15]
+Overfull \hbox (1.78899pt too wide) in paragraph at lines 199--200
 \OT1/cmr/m/n/12 High al-ti-tude (kar-man line) rocket and high-speed/high-altit
 ude hop-per based
  []
 
-[17] [18] (Engine_Design_Document.aux)
+[16] [17] (Engine_Design_Document.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1904 strings out of 474485
- 36887 string characters out of 5743734
+ 1890 strings out of 474485
+ 37120 string characters out of 5743734
  1937542 words of memory out of 5000000
- 24207 multiletter control sequences out of 15000+600000
+ 24193 multiletter control sequences out of 15000+600000
  563574 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,6n,93p,2009b,232s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -265,9 +252,9 @@ Here is how much of TeX's memory you used:
 ts/cm/cmbx12.pfb><C:/Users/coope/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmr12.pfb><C:/Users/coope/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmr17.pfb>
-Output written on Engine_Design_Document.pdf (18 pages, 1827648 bytes).
+Output written on Engine_Design_Document.pdf (17 pages, 1764872 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
+ 91 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
