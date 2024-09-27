@@ -10,6 +10,7 @@
 \usepackage{graphicx}
 \usepackage{lipsum}
 \usepackage{float}
+\usepackage{array}
 
 \title{Dual-shaft Electric Pump-fed Rocket Engine Design Review}
 \author{Cooper Grau-Firkus}
@@ -124,6 +125,34 @@ This also explains why electric pump-fed engines have been used for many of the 
 \newpage
 
 \subsection{Target Performance Metrics}
+
+\begin{tabular}{|c|c|}
+
+\hline
+
+Engine Metric & Target Design Value \\
+
+\hline
+
+Maximum Thrust (kN) & 2 \\
+Mass Flow Rate, LOX (kg/s) & 0.54921 \\
+Mass Flow Rate, Kerosene (kg/s) & 0.24964 \\
+Total Mass Flow Rate (kg/s) & 0.79885 \\
+Chamber Pressure (psi) & 400 \\
+Total Pump Required Power  (kW), $\eta$ = 100\% & 2.65 \\
+Total Pump Required Power (kW) & 5 \\
+Pump Efficiency (\%) & 53 \\
+Maximum Firing Duration (s) & 60 \\
+Mixture Ratio, O/F & 2.2 \\
+Throttling Range (\%) & 70-100 \\
+Throttling Range (kN)& 1.4-2 \\
+Sea Level Specifc Impulse (s) & 254.5 \\
+Expansion Ratio & 4.67 \\
+
+\hline
+
+\end{tabular}
+
 \subsection{Turbomachinery Experience}
 \subsection{Design of Key Engine Components}
 \subsection{Flight-like Architecture}
@@ -172,18 +201,31 @@ Lack of need for high-pressure tanks (at least non-GSE high-pressure tanks) when
 \section{Notional VTVL Vehicle Design}
 \subsection{Vehicle Architecture and Performance Metrics}
 
-Vehicle weight breakdown:\par
-\begin{itemize}
-    \item Propellant - LOX 90lbs, Kero 40lbs
-    \item Valves - 100lbs
-    \item Tanks - 20lbs ox, 10 lbs fuel
-    \item Landing Legs - 10lbs
-    \item Piping, Fittings, etc - 20lbs
-    \item Pumps and Motors - 10lbs + 20lbs
-    \item Battery - 5lbs
-    \item Thrust Chamber and Injector - 25lbs
-    \item Total: 365lbs
-\end{itemize}
+\begin{tabular}{|c|c|}
+
+\hline
+
+Vehicle Component & Estimated Component Mass (kg) \\
+
+\hline
+
+LOX & 49.5 \\
+Kerosene & 22.5 \\
+Valves & 45 \\
+Tanks & 14 \\
+Landing Legs & 4.5 \\
+Piping, Fittings, etc & 10 \\
+Pumps and Motors & 3 \\
+Battery & 0.8 \\
+Thrust Chamber and Injector & 7.5 \\
+
+\hline
+
+Total & 156.8 \\
+
+\hline
+
+\end{tabular}
 
 \subsection{Vehicle Use Case}
 

@@ -1,51 +1,51 @@
-\contentsline {section}{\numberline {1}Introduction and Project Goals}{2}{}%
-\contentsline {subsection}{\numberline {1.1}Pump-fed vs. Pressure-fed}{5}{}%
-\contentsline {subsubsection}{\numberline {1.1.1}Existing Electric Pump-fed Vehicles and Engines}{11}{}%
+\contentsline {section}{\numberline {1}Introduction and Project Goals}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Pump-fed vs. Pressure-fed}{6}{}%
+\contentsline {subsubsection}{\numberline {1.1.1}Existing Electric Pump-fed Vehicles and Engines}{12}{}%
 \contentsline {subsection}{\numberline {1.2}Target Performance Metrics}{13}{}%
-\contentsline {subsection}{\numberline {1.3}Turbomachinery Experience}{13}{}%
-\contentsline {subsection}{\numberline {1.4}Design of Key Engine Components}{13}{}%
-\contentsline {subsection}{\numberline {1.5}Flight-like Architecture}{13}{}%
-\contentsline {subsection}{\numberline {1.6}Rapid Testing Capabilities}{13}{}%
-\contentsline {subsection}{\numberline {1.7}Safety Objectives}{13}{}%
-\contentsline {section}{\numberline {2}Engine Architecture Overview}{14}{}%
-\contentsline {subsection}{\numberline {2.1}Propellants}{14}{}%
-\contentsline {subsection}{\numberline {2.2}Tanks}{14}{}%
-\contentsline {subsection}{\numberline {2.3}Valves}{14}{}%
-\contentsline {subsection}{\numberline {2.4}Flowmeters}{14}{}%
-\contentsline {subsection}{\numberline {2.5}Avionics and Sensing}{14}{}%
-\contentsline {subsubsection}{\numberline {2.5.1}Engine Controller}{14}{}%
-\contentsline {subsubsection}{\numberline {2.5.2}Pressure Transducers}{14}{}%
-\contentsline {subsubsection}{\numberline {2.5.3}Thermocouples}{14}{}%
-\contentsline {subsubsection}{\numberline {2.5.4}Communication}{14}{}%
-\contentsline {subsubsection}{\numberline {2.5.5}Power System}{14}{}%
-\contentsline {subsubsection}{\numberline {2.5.6}Load Cell}{14}{}%
-\contentsline {subsection}{\numberline {2.6}Torch Igniter}{14}{}%
-\contentsline {subsection}{\numberline {2.7}Fuel Pump}{14}{}%
-\contentsline {subsection}{\numberline {2.8}Oxidizer Pump}{14}{}%
-\contentsline {subsection}{\numberline {2.9}Injector}{14}{}%
-\contentsline {subsection}{\numberline {2.10}Thrust Chamber}{14}{}%
-\contentsline {section}{\numberline {3}Engine Firing Procedure}{14}{}%
-\contentsline {subsection}{\numberline {3.1}Nominal Firing Procedure}{14}{}%
-\contentsline {subsection}{\numberline {3.2}Contingency Scenarios}{14}{}%
-\contentsline {subsection}{\numberline {3.3}Engine Control Interface}{14}{}%
-\contentsline {subsection}{\numberline {3.4}Safety Measures}{14}{}%
-\contentsline {section}{\numberline {4}Strata Development and Testing Roadmap}{15}{}%
-\contentsline {subsection}{\numberline {4.1}Test Program Overview}{15}{}%
-\contentsline {subsubsection}{\numberline {4.1.1}Test Program Gantt Chart}{15}{}%
-\contentsline {subsection}{\numberline {4.2}Tank Proof Testing}{15}{}%
-\contentsline {subsection}{\numberline {4.3}Pump Flow Testing}{15}{}%
-\contentsline {subsubsection}{\numberline {4.3.1}Pump Flow Test Setup}{15}{}%
-\contentsline {subsection}{\numberline {4.4}Torch Igniter Testing}{15}{}%
-\contentsline {subsubsection}{\numberline {4.4.1}Torch Igniter Test Setup}{15}{}%
-\contentsline {subsection}{\numberline {4.5}Injector Testing}{15}{}%
-\contentsline {section}{\numberline {5}Notional VTVL Vehicle Design}{16}{}%
-\contentsline {subsection}{\numberline {5.1}Vehicle Architecture and Performance Metrics}{16}{}%
-\contentsline {subsection}{\numberline {5.2}Vehicle Use Case}{16}{}%
-\contentsline {section}{\numberline {6}Primary Remaining Design Questions}{16}{}%
-\contentsline {section}{\numberline {7}Long-term Roadmap}{16}{}%
-\contentsline {subsection}{\numberline {7.1}Advanced Capabilities}{16}{}%
-\contentsline {subsection}{\numberline {7.2}Next-generation Electric Pump-fed Engine}{16}{}%
-\contentsline {subsubsection}{\numberline {7.2.1}Potential Performance Metrics}{16}{}%
-\contentsline {subsection}{\numberline {7.3}Future Vehicles}{16}{}%
+\contentsline {subsection}{\numberline {1.3}Turbomachinery Experience}{14}{}%
+\contentsline {subsection}{\numberline {1.4}Design of Key Engine Components}{14}{}%
+\contentsline {subsection}{\numberline {1.5}Flight-like Architecture}{14}{}%
+\contentsline {subsection}{\numberline {1.6}Rapid Testing Capabilities}{14}{}%
+\contentsline {subsection}{\numberline {1.7}Safety Objectives}{14}{}%
+\contentsline {section}{\numberline {2}Engine Architecture Overview}{15}{}%
+\contentsline {subsection}{\numberline {2.1}Propellants}{15}{}%
+\contentsline {subsection}{\numberline {2.2}Tanks}{15}{}%
+\contentsline {subsection}{\numberline {2.3}Valves}{15}{}%
+\contentsline {subsection}{\numberline {2.4}Flowmeters}{15}{}%
+\contentsline {subsection}{\numberline {2.5}Avionics and Sensing}{15}{}%
+\contentsline {subsubsection}{\numberline {2.5.1}Engine Controller}{15}{}%
+\contentsline {subsubsection}{\numberline {2.5.2}Pressure Transducers}{15}{}%
+\contentsline {subsubsection}{\numberline {2.5.3}Thermocouples}{15}{}%
+\contentsline {subsubsection}{\numberline {2.5.4}Communication}{15}{}%
+\contentsline {subsubsection}{\numberline {2.5.5}Power System}{15}{}%
+\contentsline {subsubsection}{\numberline {2.5.6}Load Cell}{15}{}%
+\contentsline {subsection}{\numberline {2.6}Torch Igniter}{15}{}%
+\contentsline {subsection}{\numberline {2.7}Fuel Pump}{15}{}%
+\contentsline {subsection}{\numberline {2.8}Oxidizer Pump}{15}{}%
+\contentsline {subsection}{\numberline {2.9}Injector}{15}{}%
+\contentsline {subsection}{\numberline {2.10}Thrust Chamber}{15}{}%
+\contentsline {section}{\numberline {3}Engine Firing Procedure}{15}{}%
+\contentsline {subsection}{\numberline {3.1}Nominal Firing Procedure}{15}{}%
+\contentsline {subsection}{\numberline {3.2}Contingency Scenarios}{15}{}%
+\contentsline {subsection}{\numberline {3.3}Engine Control Interface}{15}{}%
+\contentsline {subsection}{\numberline {3.4}Safety Measures}{15}{}%
+\contentsline {section}{\numberline {4}Strata Development and Testing Roadmap}{16}{}%
+\contentsline {subsection}{\numberline {4.1}Test Program Overview}{16}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}Test Program Gantt Chart}{16}{}%
+\contentsline {subsection}{\numberline {4.2}Tank Proof Testing}{16}{}%
+\contentsline {subsection}{\numberline {4.3}Pump Flow Testing}{16}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Pump Flow Test Setup}{16}{}%
+\contentsline {subsection}{\numberline {4.4}Torch Igniter Testing}{16}{}%
+\contentsline {subsubsection}{\numberline {4.4.1}Torch Igniter Test Setup}{16}{}%
+\contentsline {subsection}{\numberline {4.5}Injector Testing}{16}{}%
+\contentsline {section}{\numberline {5}Notional VTVL Vehicle Design}{17}{}%
+\contentsline {subsection}{\numberline {5.1}Vehicle Architecture and Performance Metrics}{17}{}%
+\contentsline {subsection}{\numberline {5.2}Vehicle Use Case}{17}{}%
+\contentsline {section}{\numberline {6}Primary Remaining Design Questions}{17}{}%
+\contentsline {section}{\numberline {7}Long-term Roadmap}{17}{}%
+\contentsline {subsection}{\numberline {7.1}Advanced Capabilities}{17}{}%
+\contentsline {subsection}{\numberline {7.2}Next-generation Electric Pump-fed Engine}{17}{}%
+\contentsline {subsubsection}{\numberline {7.2.1}Potential Performance Metrics}{17}{}%
+\contentsline {subsection}{\numberline {7.3}Future Vehicles}{17}{}%
 \contentsline {subsubsection}{\numberline {7.3.1}High Altitude Hopper}{17}{}%
-\contentsline {subsection}{\numberline {7.4}More Advanced Engine Cycles}{17}{}%
+\contentsline {subsection}{\numberline {7.4}More Advanced Engine Cycles}{18}{}%
