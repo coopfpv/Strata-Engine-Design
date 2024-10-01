@@ -11,6 +11,7 @@
 \usepackage{lipsum}
 \usepackage{float}
 \usepackage{array}
+\usepackage{placeins} 
 
 \title{Dual-shaft Electric Pump-fed Rocket Engine Design Review}
 \author{Cooper Grau-Firkus}
@@ -102,19 +103,15 @@ If we were to scale up the vehicles in this comparison, the performance differen
 
 This also explains why electric pump-fed engines have been used for many of the small launch vehicles that have been developed in recent years. The Rutherford engine that powers Rocket Lab's Electron is a high-performance kerosene-LOX dual-shaft electric pump-fed engine and power one of the most dependable workhorse rockets flying today. It is also one of the only engines to be recovered and refired following an orbital flight. This is also indicative of the reusability benefits of this kind of engine, as it eliminates many of the sources of wear that engines experience. Some hobbyists have also delved into electric pump-fed cycles, including some successful firings of partially pump-fed engines, one of which is pictured below. This has been a rare occurrence, however, and one of the goals of this document is to help more hobbyists and students get a start with this cycle.
 
-\begin{figure}[]
+\FloatBarrier
+
+\begin{figure}[H]
     \centering
     \includegraphics[width=8cm]{Images/Rutherford-Ignition3.jpg}
     \caption{Rocket Lab's Rutherford is Fired After Powering an Electron to Orbit}
 \end{figure}
 
-\begin{figure}[]
-    \centering
-    \includegraphics[width=10cm]{Images/AstraLaunch.jpg}
-    \caption{Five Delphin Engines Power Astra's Rocket 3.2}
-\end{figure}
-
-\begin{figure}[t]
+\begin{figure}[H]
     \centering
     \includegraphics[width=10cm]{Images/Pump_LOX_reddit.jpeg}
     \includegraphics[width=10cm]{Images/ElectricPumpFedReddit.jpg}
@@ -122,7 +119,7 @@ This also explains why electric pump-fed engines have been used for many of the 
 \end{figure}
 
 
-\newpage
+\FloatBarrier
 
 \subsection{Target Performance Metrics}
 
@@ -144,10 +141,9 @@ Total Pump Required Power (kW) & 5 \\
 Pump Efficiency (\%) & 53 \\
 Maximum Firing Duration (s) & 60 \\
 Mixture Ratio, O/F & 2.2 \\
-Throttling Range (\%) & 70-100 \\
-Throttling Range (kN)& 1.4-2 \\
+Throttling Range (\%) & 35-100 \\
+Throttling Range (kN)& 0.7-2 \\
 Sea Level Specifc Impulse (s) & 254.5 \\
-Expansion Ratio & 4.67 \\
 
 \hline
 
@@ -211,8 +207,10 @@ Vehicle Component & Estimated Component Mass (kg) \\
 
 LOX & 49.5 \\
 Kerosene & 22.5 \\
+Nitrogen &  \\
 Valves & 45 \\
-Tanks & 14 \\
+Propellant Tanks & 14 \\
+Nitrogen Pressurant Tank & 10 \\
 Landing Legs & 4.5 \\
 Piping, Fittings, etc & 10 \\
 Pumps and Motors & 3 \\
@@ -221,7 +219,8 @@ Thrust Chamber and Injector & 7.5 \\
 
 \hline
 
-Total & 156.8 \\
+Vehicle Wet Mass & 156.8 \\
+Vehicle Dry Mass & 84.8 \\
 
 \hline
 

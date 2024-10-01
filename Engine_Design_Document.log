@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.22)  27 SEP 2024 02:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.22)  27 SEP 2024 16:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -85,23 +85,26 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \backup@length=\skip51
 \ar@cellbox=\box55
 )
+(C:\Users\coope\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
 (Engine_Design_Document.aux)
 \openout1 = `Engine_Design_Document.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 (C:\Users\coope\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -129,9 +132,9 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 20.
+(Font)              <14.4> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 20.
+(Font)              <7> on input line 21.
  (Engine_Design_Document.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 2.
@@ -149,7 +152,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <Images/Colibri.jpg, id=11, 462.528pt x 431.211pt>
 File: Images/Colibri.jpg Graphic file (type jpg)
 <use Images/Colibri.jpg>
-Package pdftex.def Info: Images/Colibri.jpg  used on input line 29.
+Package pdftex.def Info: Images/Colibri.jpg  used on input line 30.
 (pdftex.def)             Requested size: 199.16928pt x 185.68687pt.
 <Images/Kluft-photo-CSXT-2004-amateur-space-launch.jpg, id=12, 331.2375pt x 496
 .85625pt>
@@ -157,17 +160,17 @@ File: Images/Kluft-photo-CSXT-2004-amateur-space-launch.jpg Graphic file (type
 jpg)
 <use Images/Kluft-photo-CSXT-2004-amateur-space-launch.jpg>
 Package pdftex.def Info: Images/Kluft-photo-CSXT-2004-amateur-space-launch.jpg 
- used on input line 35.
+ used on input line 36.
 (pdftex.def)             Requested size: 142.26378pt x 213.39383pt.
  [3] [4 <./Images/Colibri.jpg>] [5 <./Images/Kluft-photo-CSXT-2004-amateur-spac
 e-launch.jpg>] [6]
 <Diagrams/PumpVPressure.jpg, id=26, 829.9005pt x 477.58424pt>
 File: Diagrams/PumpVPressure.jpg Graphic file (type jpg)
 <use Diagrams/PumpVPressure.jpg>
-Package pdftex.def Info: Diagrams/PumpVPressure.jpg  used on input line 67.
+Package pdftex.def Info: Diagrams/PumpVPressure.jpg  used on input line 68.
 (pdftex.def)             Requested size: 426.79134pt x 245.61247pt.
 
-Overfull \hbox (36.79134pt too wide) in paragraph at lines 67--68
+Overfull \hbox (36.79134pt too wide) in paragraph at lines 68--69
  [][] 
  []
 
@@ -175,16 +178,16 @@ Overfull \hbox (36.79134pt too wide) in paragraph at lines 67--68
 <Plots and Graphs/Pc_V_Isp.png, id=31, 462.528pt x 346.896pt>
 File: Plots and Graphs/Pc_V_Isp.png Graphic file (type png)
 <use Plots and Graphs/Pc_V_Isp.png>
-Package pdftex.def Info: Plots and Graphs/Pc_V_Isp.png  used on input line 75.
+Package pdftex.def Info: Plots and Graphs/Pc_V_Isp.png  used on input line 76.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 <Plots and Graphs/VehicleMass_V_Pc.png, id=33, 502.2765pt x 365.6862pt>
 File: Plots and Graphs/VehicleMass_V_Pc.png Graphic file (type png)
 <use Plots and Graphs/VehicleMass_V_Pc.png>
 Package pdftex.def Info: Plots and Graphs/VehicleMass_V_Pc.png  used on input l
-ine 83.
+ine 84.
 (pdftex.def)             Requested size: 227.62204pt x 165.72346pt.
 
-Underfull \hbox (badness 2401) in paragraph at lines 84--84
+Underfull \hbox (badness 2401) in paragraph at lines 85--85
 []\OT1/cmr/m/n/12 Figure 5: Sim-pli-fied Com-par-i-son of Ve-hi-cle Mass for Pr
 essure-fed,
  []
@@ -193,47 +196,34 @@ essure-fed,
 File: Plots and Graphs/deltaV_Pressure_V_Pump.png Graphic file (type png)
 <use Plots and Graphs/deltaV_Pressure_V_Pump.png>
 Package pdftex.def Info: Plots and Graphs/deltaV_Pressure_V_Pump.png  used on i
-nput line 89.
+nput line 90.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
 [8 <./Plots and Graphs/Pc_V_Isp.png>] [9 <./Plots and Graphs/VehicleMass_V_Pc.p
 ng>] [10 <./Plots and Graphs/deltaV_Pressure_V_Pump.png>] [11]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 105.
-
 <Images/Rutherford-Ignition3.jpg, id=50, 579.66562pt x 508.90125pt>
 File: Images/Rutherford-Ignition3.jpg Graphic file (type jpg)
 <use Images/Rutherford-Ignition3.jpg>
-Package pdftex.def Info: Images/Rutherford-Ignition3.jpg  used on input line 10
-7.
+Package pdftex.def Info: Images/Rutherford-Ignition3.jpg  used on input line 11
+0.
 (pdftex.def)             Requested size: 227.62204pt x 199.82959pt.
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 111.
-
-<Images/AstraLaunch.jpg, id=51, 2055.68pt x 1370.11874pt>
-File: Images/AstraLaunch.jpg Graphic file (type jpg)
-<use Images/AstraLaunch.jpg>
-Package pdftex.def Info: Images/AstraLaunch.jpg  used on input line 113.
-(pdftex.def)             Requested size: 284.52756pt x 189.62015pt.
-<Images/Pump_LOX_reddit.jpeg, id=52, 1708.3825pt x 1280.785pt>
+<Images/Pump_LOX_reddit.jpeg, id=51, 1708.3825pt x 1280.785pt>
 File: Images/Pump_LOX_reddit.jpeg Graphic file (type jpg)
 <use Images/Pump_LOX_reddit.jpeg>
-Package pdftex.def Info: Images/Pump_LOX_reddit.jpeg  used on input line 119.
+Package pdftex.def Info: Images/Pump_LOX_reddit.jpeg  used on input line 116.
 (pdftex.def)             Requested size: 284.52756pt x 213.29427pt.
-<Images/ElectricPumpFedReddit.jpg, id=53, 2307.822pt x 603.4545pt>
+<Images/ElectricPumpFedReddit.jpg, id=52, 2307.822pt x 603.4545pt>
 File: Images/ElectricPumpFedReddit.jpg Graphic file (type jpg)
 <use Images/ElectricPumpFedReddit.jpg>
 Package pdftex.def Info: Images/ElectricPumpFedReddit.jpg  used on input line 1
-20.
+17.
 (pdftex.def)             Requested size: 284.52756pt x 74.39111pt.
-[12 <./Images/Rutherford-Ignition3.jpg>] [13 <./Images/AstraLaunch.jpg>]
-[14 <./Images/Pump_LOX_reddit.jpeg> <./Images/ElectricPumpFedReddit.jpg>]
+ [12 <./Images/Rutherford-Ignition3.jpg>] [13 <./Images/Pump_LOX_reddit.jpeg> <
+./Images/ElectricPumpFedReddit.jpg>] [14]
 Overfull \vbox (3.2667pt too high) has occurred while \output is active []
 
 
 [15] [16]
-Overfull \hbox (1.78899pt too wide) in paragraph at lines 241--242
+Overfull \hbox (1.78899pt too wide) in paragraph at lines 240--241
 \OT1/cmr/m/n/12 High al-ti-tude (kar-man line) rocket and high-speed/high-altit
 ude hop-per based
  []
@@ -245,10 +235,10 @@ L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1954 strings out of 474485
- 38107 string characters out of 5743734
+ 1976 strings out of 474485
+ 38625 string characters out of 5743734
  1937542 words of memory out of 5000000
- 24254 multiletter control sequences out of 15000+600000
+ 24272 multiletter control sequences out of 15000+600000
  563574 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,7n,93p,2009b,232s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -258,9 +248,9 @@ ts/cm/cmbx12.pfb><C:/Users/coope/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmmi12.pfb><C:/Users/coope/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmr12.pfb><C:/Users/coope/AppData/Local/Programs/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Engine_Design_Document.pdf (18 pages, 1775203 bytes).
+Output written on Engine_Design_Document.pdf (18 pages, 1453714 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
+ 98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
