@@ -1,11 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% Welcome to Overleaf --- just edit your LaTeX on the left,
-% and we'll compile it for you on the right. If you open the
-% 'Share' menu, you can invite other users to edit at the same
-% time. See www.overleaf.com/learn for more info. Enjoy!
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \documentclass[12pt, letterpaper]{article}
 \usepackage{graphicx}
 \usepackage{lipsum}
@@ -139,15 +131,22 @@ Chamber Pressure (psi) & 400 \\
 Total Pump Required Power  (kW), $\eta$ = 100\% & 2.65 \\
 Total Pump Required Power (kW) & 5 \\
 Pump Efficiency (\%) & 53 \\
-Maximum Firing Duration (s) & 60 \\
+Maximum Firing Duration (s) & 90 \\
 Mixture Ratio, O/F & 2.2 \\
-Throttling Range (\%) & 35-100 \\
-Throttling Range (kN)& 0.7-2 \\
+Throttling Range (\%) & 45-100 \\
+Throttling Range (kN)& 0.9-2 \\
 Sea Level Specifc Impulse (s) & 254.5 \\
 
 \hline
 
 \end{tabular}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=8cm]{Plots and Graphs/Ideal_Mixture_Ratio.jpg}
+    \caption{Ideal Mixture Ratio for Various Chamber Pressures for a kerosene-LOX engine}
+\end{figure}
+
 
 \subsection{Turbomachinery Experience}
 \subsection{Design of Key Engine Components}
@@ -160,6 +159,14 @@ Lack of need for high-pressure tanks (at least non-GSE high-pressure tanks) when
 \subsection{Propellants}
 \subsection{Tanks}
 \subsection{Valves}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=8cm]{Images/ValvePrototypeV1.jpg}
+    \includegraphics[width=8cm]{Images/ValvePrototypeV1-2.jpg}
+    \caption{Stepper Motor-actuated Valve Prototype Assembly}
+\end{figure}
+
 \subsection{Flowmeters}
 \subsection{Avionics and Sensing}
 \subsubsection{Engine Controller}
@@ -173,6 +180,12 @@ Lack of need for high-pressure tanks (at least non-GSE high-pressure tanks) when
 \subsection{Oxidizer Pump}
 \subsection{Injector}
 \subsection{Thrust Chamber}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=16cm]{Images/Thrust_Chamber_Contour_v3.0_2kN.jpg}
+    \caption{Contour of Strata Engine Thrust Chamber with Dimensions}
+\end{figure}
 
 \section{Engine Firing Procedure}
 \subsection{Nominal Firing Procedure}
@@ -207,20 +220,24 @@ Vehicle Component & Estimated Component Mass (kg) \\
 
 LOX & 49.5 \\
 Kerosene & 22.5 \\
-Nitrogen &  \\
-Valves & 45 \\
+Nitrogen Pressurant & 1.5 \\
+Valves & 35 \\
 Propellant Tanks & 14 \\
-Nitrogen Pressurant Tank & 10 \\
+Nitrogen Pressurant Tank & 5 \\
 Landing Legs & 4.5 \\
+Thrust Vector Control Actuators & 10 \\
+Engine Mount and Thrust Structure & 7.5 \\
+Intertank & 5 \\
 Piping, Fittings, etc & 10 \\
-Pumps and Motors & 3 \\
-Battery & 0.8 \\
+Pumps and Motors & 6 \\
+Battery & 1.6 \\
 Thrust Chamber and Injector & 7.5 \\
+Payload (max) & 10 \\
 
 \hline
 
-Vehicle Wet Mass & 156.8 \\
-Vehicle Dry Mass & 84.8 \\
+Vehicle Wet Mass & 179.6 \\
+Vehicle Dry Mass & 107.6 \\
 
 \hline
 
@@ -231,7 +248,7 @@ Vehicle Dry Mass & 84.8 \\
 \section{Primary Remaining Design Questions}
 
 \section{Long-term Roadmap}
-\subsection{Advanced Capabilities}
+\subsection{Next Steps and Advanced Capabilities}
 \subsection{Next-generation Electric Pump-fed Engine}
 \subsubsection{Potential Performance Metrics}
 What are the limits of performance for an electric pump-fed engine?
