@@ -25,6 +25,11 @@ Detailed analysis can be found in the Engine Design Document, which is being upd
 
 [Cryo Flow Test Stand [v1.0]](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Cryo_Flow_Test_Stand_1.0.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1zoZmaaDqFMcsB0OUbbFYwSBgZOUYAFg-%26export%3Ddownload)
 
+# BOMs
+
+[Full Engine BOM](https://docs.google.com/spreadsheets/d/1rsMFwq2SDLCYUPhGX3XAcpVHY0crdeV7Jn53EOnFZ5U/edit?usp=sharing)
+- Work in Progress
+
 # Procedures
 
 [Preliminary Engine Ignition Procedure](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Strata_Firing_Procedure.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1AEl93Ff9772neKLM0owi7QXPvfOIc8SO%26export%3Ddownload)
