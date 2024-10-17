@@ -13,6 +13,11 @@ Detailed analysis can be found in the Engine Design Document, which is being upd
 [Engine P&ID Link [v1.2]](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Strata_1.2.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1qTpM6ZxFwRS1_L7npsUk85sJaS9tPvm7%26export%3Ddownload)
 
 [Engine P&ID Link [v1.3]](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Strata_1.3.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D12wGomCHbZRq_CYIF9YXQaUaddshIrnGV%26export%3Ddownload)
+- Added LOX purge line after tank
+- Added additional LOX line thermcouples for verifying LOX chill
+- Added flowmeters downstream of pumps
+- Reverted to pump-driven torch igniter lines, rather than direct igniter lines from tanks
+- Combined kerosene and LOX press valves
 
 # Flow Test Stand P&IDs
 
